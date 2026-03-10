@@ -20,7 +20,7 @@ Then install any plugin:
 
 | Plugin | Description | Version |
 |--------|-------------|---------|
-| [function-health-mcp](https://github.com/daveremy/function-health-mcp) | Query Function Health lab results, track biomarker changes, and get health recommendations | 0.5.1 |
+| [function-health-mcp](https://github.com/daveremy/function-health-mcp) | Query Function Health lab results, track biomarker changes, and get health recommendations | 0.5.2 |
 
 ## Marketplace vs Direct Install
 
