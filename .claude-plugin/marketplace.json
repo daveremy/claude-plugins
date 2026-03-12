@@ -17,5 +17,10 @@
     "source": { "source": "npm", "package": "@daveremy/hevy-mcp" },
     "description": "MCP server for the Hevy fitness tracking API — workouts, routines, exercises, and more",
     "version": "0.1.3"
+  }, {
+    "name": "oura-mcp",
+    "source": { "source": "npm", "package": "@daveremy/oura-mcp" },
+    "description": "Oura Ring MCP server — sleep, readiness, activity, HR, stress, SpO2, workouts, and sessions",
+    "version": "0.1.3"
   }]
 }
