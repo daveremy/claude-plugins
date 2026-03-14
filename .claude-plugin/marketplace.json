@@ -48,7 +48,7 @@
         "package": "nutrition-mcp"
       },
       "description": "3-tier nutrition lookup with local SQLite caching — search 326K+ foods, USDA API fallback, barcode scanning",
-      "version": "0.2.6"
+      "version": "0.2.7"
     }
   ]
 }
