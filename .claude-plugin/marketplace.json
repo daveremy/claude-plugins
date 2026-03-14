@@ -49,6 +49,15 @@
       },
       "description": "3-tier nutrition lookup with local SQLite caching — search 326K+ foods, USDA API fallback, barcode scanning",
       "version": "0.2.10"
+    },
+    {
+      "name": "markviewz",
+      "source": {
+        "source": "npm",
+        "package": "markviewz"
+      },
+      "description": "Open .md files in a native macOS markdown viewer from Claude Code",
+      "version": "0.1.0"
     }
   ]
 }
