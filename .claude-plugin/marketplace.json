@@ -57,7 +57,7 @@
         "package": "markviewz"
       },
       "description": "Open .md files in a native macOS markdown viewer from Claude Code",
-      "version": "0.1.0"
+      "version": "0.1.1"
     }
   ]
 }
