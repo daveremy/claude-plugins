@@ -76,6 +76,24 @@
       },
       "description": "Read and send iMessages — contact resolution, message search, group chats, reactions",
       "version": "0.1.0"
+    },
+    {
+      "name": "unsubscribe-mcp",
+      "source": {
+        "source": "npm",
+        "package": "unsubscribe-mcp"
+      },
+      "description": "MCP server for email unsubscribe — RFC 8058 one-click, GET fallback, mailto support",
+      "version": "0.1.2"
+    },
+    {
+      "name": "tickler-mcp",
+      "source": {
+        "source": "npm",
+        "package": "tickler-mcp"
+      },
+      "description": "Persistent ticklers/reminders that survive agent session restarts",
+      "version": "1.0.1"
     }
   ]
 }

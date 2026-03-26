@@ -24,6 +24,8 @@ Then install any plugin:
 | [apple-health-mcp](https://github.com/daveremy/apple-health-mcp) | Query Apple Health daily metrics, workouts, and trends via Health Auto Export CSVs | 0.1.0 |
 | [hevy-mcp](https://github.com/daveremy/hevy-mcp) | MCP server for the Hevy fitness tracking API — workouts, routines, exercises, and more | 0.1.0 |
 | [markviewz](https://github.com/daveremy/Markviewz) | Open .md files in a native macOS markdown viewer from Claude Code | 0.1.0 |
+| [unsubscribe-mcp](https://github.com/daveremy/unsubscribe-mcp) | MCP server for email unsubscribe — RFC 8058 one-click, GET fallback, mailto support | 0.1.2 |
+| [tickler-mcp](https://github.com/daveremy/tickler-mcp) | Persistent ticklers/reminders that survive agent session restarts | 1.0.1 |
 
 ## Marketplace vs Direct Install
 
